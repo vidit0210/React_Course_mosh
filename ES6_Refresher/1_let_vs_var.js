@@ -1,0 +1,1 @@
+//Var can be accesed from anhywheere from the page modulation stuff
